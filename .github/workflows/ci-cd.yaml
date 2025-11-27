@@ -90,3 +90,4 @@ jobs:
         with:
           slack_webhook_url: https://hooks.slack.com/services/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
           status: ${{ needs.deploy.result == 'success' && 'success' || needs.deploy.result == 'cancelled' && 'cancelled' || 'failure' }}
+
