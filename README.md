@@ -126,3 +126,4 @@ There are unofficial, third-party integrations (not affiliated with Supabase ava
 
 1. [Datadog](https://docs.datadoghq.com/integrations/supabase/)
 2. [Grafana Cloud](https://grafana.com/docs/grafana-cloud/monitor-infrastructure/integrations/integration-reference/integration-supabase/)
+
